@@ -8,5 +8,9 @@ public class TestFile_1 {
 		System.out.println("TEST-2");
 		System.out.println("TEST-3");
 	}
+	
+	public void printName() {
+		System.out.println("My Name is Sandhya");
+	}
 
 }
