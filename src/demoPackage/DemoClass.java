@@ -7,6 +7,8 @@ public class DemoClass {
 		
 		System.out.println("JAVA");
 		System.out.println("Selenium");
+		System.out.println("TestNG");
+		System.out.println("Maven");
 
 	}
 
