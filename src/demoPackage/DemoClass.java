@@ -9,7 +9,7 @@ public class DemoClass {
 		System.out.println("Selenium");
 		System.out.println("TestNG");
 		System.out.println("Maven");
-
+		System.out.println("POM");
 	}
 
 }
